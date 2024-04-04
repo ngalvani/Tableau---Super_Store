@@ -1,0 +1,28 @@
+Worksheet 1
+
+Sales per category across all regions
+
+This show how furniture, office supplies, and technology sold for each region: central, east, south, west.
+
+You can also see which regions sold which category the most
+
+**Worksheet 2**
+
+Sales per year in months
+
+This shows sum of sales each month for the years 2014 – 2017
+
+**Worksheet 3**
+
+Profit per year in quarters
+
+This show the sum of profit for each quarter for the years 2014-2017
+
+There is also a trend line, that way you can see the trend of profit for each year and its accuracy
+
+The trend lines show the r^2, p-value, along with the profit formula (see trend_1.png)
+
+All of these sheets are able to be filtered by the regions form the Worksheet 1
+
+
+
