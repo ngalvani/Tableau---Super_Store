@@ -16,4 +16,4 @@ What is the distribution of sales of top 10 products?
 
 This one was more complicated, i had to create bins (50) to show which products had what distrubition of sales, filted by product name. this shows which products of the top 10 had the most orders given sales in segments of 50s
 
---see “dist_sales.png”—
+--see “dist_sales_top10.png”—
