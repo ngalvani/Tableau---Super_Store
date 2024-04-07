@@ -1,1 +1,19 @@
+**Regarding “sales_dashboard_top10.png”**
 
+What are the top 10 most profitable products?
+
+This show what were the top ten most profitable products sold, filtered by productID
+
+--see “profit_top10.png”--
+
+Which products had the most orders?
+
+this shows what the top 10 products ordered where and is filtred by subcategories. This way you can see which category of each of the top 10 products sold the most.
+
+--see “order_top10.png”--
+
+What is the distribution of sales of top 10 products?
+
+This one was more complicated, i had to create bins (50) to show which products had what distrubition of sales, filted by product name. this shows which products of the top 10 had the most orders given sales in segments of 50s
+
+--see “dist_sales.png”—
