@@ -1,4 +1,5 @@
 **Tableau Data Visualization Project**<br>
+**Store Sales** <br>
 **<br>About<br>**
 This repository contains a Tableau data visualization project showcasing various analyses and insights derived from a provided dataset relating to a company store sales. The primary objective of this project is to demonstrate proficiency in Tableau by visualizing and exploring different aspects of the dataset.
 
